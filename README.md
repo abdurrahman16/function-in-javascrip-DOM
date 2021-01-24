@@ -1,1 +1,1 @@
-# function-in-javascrip-DOM
+# function-in-javascript-DOM
